@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossBrowserTesting", "CrossBrowserTesting\CrossBrowserTesting.csproj", "{CEBBEA17-1F03-45D9-AAD0-E2EB3A48ADEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEBBEA17-1F03-45D9-AAD0-E2EB3A48ADEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBBEA17-1F03-45D9-AAD0-E2EB3A48ADEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEBBEA17-1F03-45D9-AAD0-E2EB3A48ADEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBBEA17-1F03-45D9-AAD0-E2EB3A48ADEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18AB2F11-8A1E-4C3D-A66D-A3076A697EDC}
+	EndGlobalSection
+EndGlobal
